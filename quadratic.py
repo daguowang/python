@@ -1,4 +1,5 @@
 import math
+#解一元二次方程
 
 def quadratic(a,b,c):
     if(b*b-4*a*c)>0:
